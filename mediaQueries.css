@@ -1,0 +1,51 @@
+@media(max-width: 640px) {
+
+    .calluna{
+        font-size: .8em;
+    }
+
+    .category {
+        font-size: .6em;
+    }
+
+    .calluna-description {
+        max-width: 100% !important;
+    }
+
+    .desc {
+        font-size: 1.4em;
+    }
+
+    .left {
+        padding-bottom: 30px !important;
+        max-width: 100% !important;
+        font-size: 1em !important;
+        float: none;
+    }
+
+    .right {
+        padding-top: 0 !important;
+        max-width: 100% !important;
+        font-size: 1em !important;
+        float: none;
+    }
+
+    .project img {
+        max-width: 100% !important;
+        margin: 0 !important;
+    }
+
+    .conclusion h1{
+        font-size: 1.4em !important;
+    }
+
+    .conclusion p {
+        font-size: 1em !important;
+    }
+
+    .conclusion {
+        max-width: 100% !important;
+    }
+}
+
+
